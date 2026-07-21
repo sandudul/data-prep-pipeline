@@ -1,3 +1,4 @@
+LICENSE
 README.md
 pyproject.toml
 src/data_processor/__init__.py
