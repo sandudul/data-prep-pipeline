@@ -31,6 +31,5 @@ ehthumbs.db
 Thumbs.db
 
 # Generated data files
-dataset/processed_dataset.csv
 dataset/out.csv
 dataset/out.json
